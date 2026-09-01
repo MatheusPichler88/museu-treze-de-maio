@@ -16,7 +16,7 @@
 O **Museu Treze de Maio** não possuía presença digital própria, o que dificultava o acesso público ao seu acervo histórico e cultural. A ausência de um sistema informatizado tornava a consulta ao acervo restrita ao ambiente físico do museu, limitando o alcance e a preservação das informações sobre as peças e documentos históricos sob sua guarda.
 
 A solução proposta é um **sistema web completo** que permite ao museu gerenciar e divulgar digitalmente o seu acervo. A plataforma conta com uma interface pública para consulta das peças do acervo e uma área administrativa restrita, na qual funcionários e administradores podem cadastrar, editar e remover itens, com controle de acesso por perfil de usuário.
-
+ 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
